@@ -12,7 +12,7 @@
 
 <br>
 
-# <p align="center"><span> :rotating_light: Discalaimer</span>: This is still a work under construction :construction: , I've just started porting some of my older projects from BitBucket, and Gitlab and Github changing its token policy is not making it easy. For the time being, what is pinned is most of what I can show for! </p>
+# <p align="center"><span> :rotating_light: Discalaimer</span>: This is still a work under construction :construction: , I've just started porting some of my older projects from BitBucket and Gitlab, and Github changing its token policy is not making it easy. For the time being, what is pinned is most of what I can show for! </p>
 
 
 
