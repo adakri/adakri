@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-	<span> Hello there! I am a ~21 year old student~ 22 year old research engineer in computer science & applied mathematics at <a href="https://team.inria.fr/morpheo/"> INRIA's MORPHEO team </a> . I was an engineering student at <a href="https://ensimag.grenoble-inp.fr/en/education/mathematical-modeling-vision-graphics-and-simulation#page-presentation">Grenoble-INP ENSIMAG</a>'s Mathematical modeling, vision, graphics and simulation department having spent the previous two years at <a href="https://www.bordeaux-inp.fr/en">ENSEIRB-MATMECA</a> where I was specialised in high performance computing and mathematical modeling.
+	<span> Hello there! I am a ~~21 year old student~~ 22 year old research engineer in computer science & applied mathematics at <a href="https://team.inria.fr/morpheo/"> INRIA's MORPHEO team </a> . I was an engineering student at <a href="https://ensimag.grenoble-inp.fr/en/education/mathematical-modeling-vision-graphics-and-simulation#page-presentation">Grenoble-INP ENSIMAG</a>'s Mathematical modeling, vision, graphics and simulation department having spent the previous two years at <a href="https://www.bordeaux-inp.fr/en">ENSEIRB-MATMECA</a> where I was specialised in high performance computing and mathematical modeling.
 My research interests are applied mathematics and computer science generally, but I specialize in computer graphics, vision and high performance computing.
 </p>
   
