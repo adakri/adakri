@@ -17,6 +17,41 @@ My research interests are applied mathematics and computer science generally, bu
 
 <br>
 
+Cool, Thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for this great dynamic stats vizualisation as well as [Anton Komrev](https://komarev.com/anton) for the profile viewer counter.
+
+<br/>  
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=adakri&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adakri&show_icons=true&count_private=true&layout=compact&hide_border=true" align="center" />
+</div>  
+
+<br/>  
+
+<br/>  
+ 
+<div align="left">
+<a href="https://github.com/adakri" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/adakri" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+<a href="mailto:abdelmouttalebdakri@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail  style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.linkedin.com/in/abdelmouttaleb-dakri" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin  style="margin-bottom: 5px;" />
+</a>  
+<a href="https://github.com/adakri" target="_blank">
+<img src="https://komarev.com/ghpvc/?username=adakri&&style=for-the-badge" alt=profileviews  style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+</br>
+
+
+
 # <p align="center"><span> :rotating_light: Disclaimer</span>: This is still a work under construction :construction: , I've just started porting some of my older projects from BitBucket and Gitlab, and Github changing its token policy is not making it easy. For the time being, what is pinned is most of what I can show for! </p>
 
 
