@@ -17,7 +17,7 @@ My research interests are applied mathematics and computer science generally, bu
 
 <br>
 
-Cool, Thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for this great dynamic stats vizualisation as well as [Anton Komrev](https://komarev.com/anton) for the profile viewer counter. Forever a humble experience.
+Cool, Thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for this great dynamic stats vizualisation as well as [Anton Komrev](https://komarev.com/anton) for the profile viewer counter. Forever a humbling experience.
 
 <br/>  
 
