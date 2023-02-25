@@ -50,8 +50,6 @@ Cool, Thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stat
 
 </br>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=adakri.visitor-badge&left_color=red&right_color=green&left_text=Hi%20Visitors)
-
 # <p align="center"><span> :rotating_light: Disclaimer</span>: This is still a work under construction :construction: , I've just started porting some of my older projects from BitBucket and Gitlab, and Github changing its token policy is not making it easy. For the time being, what is pinned is most of what I can show for! </p>
 
 
