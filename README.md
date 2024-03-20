@@ -7,16 +7,38 @@ Hi! My name is Abdelmouttaleb and I do research in computer science & applied ma
 </p>
 
 <p align="center">
-<img align="right" src="./ressources/meo_code.gif" width="30"/>
+<img align="right" src="[https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://giphy.com/embed/sJmAyANCnsRKByFwKJ/video)" />
+
 	<samp>
 My research interests revolve around applied mathematics :chart_with_downwards_trend: and computer science :computer: generally, but I specialize in computer graphics, vision and high performance computing.
-- 🔭 I’m currently working on physically based high performance human avatars.
+- 🔭 I’m currently working on physically based high performance human avatars <img align="right" src="./ressources/meo_code.gif" width="30"/>.
   </samp>
 </p>
 
-🚀 Some Tools I Use (and what you'll mostly find here)</h2>
+<samp>
+🚀 Some Tools I Use (and what you'll mostly find here)
+</samp>
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencl/opencl-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" />
+
 </p>
   
 ## A bit of context ?
