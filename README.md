@@ -1,14 +1,23 @@
-### Hi there 👋
+# Hello there <img src="./ressources/kirby_dance.gif" width="30"/>
 
+<p align="center">
+  <samp>
+Hi! My name is Abdelmouttaleb and I do research in computer science & applied mathematics at <a href="https://team.inria.fr/morpheo/"> INRIA's MORPHEO team </a> . Based in Grenoble, France :mount_fuji:.
+My research interests revolve around applied mathematics :chart_with_downwards_trend: and computer science :computer: generally, but I specialize in computer graphics, vision and high performance computing.
+- 🔭 I’m currently working on physically based high performance human avatars.
+  </samp>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adakri&show_icons=true" alt="Abdels Github Stats"></img>
+</p>
 
- Hello there! I am a 23 year old research engineer in computer science & applied mathematics at <a href="https://team.inria.fr/morpheo/"> INRIA's MORPHEO team </a> . I was an engineering student at <a href="https://ensimag.grenoble-inp.fr/en/education/mathematical-modeling-vision-graphics-and-simulation#page-presentation">Grenoble-INP ENSIMAG</a>'s Mathematical modeling, vision, graphics and simulation department having spent the previous two years at <a href="https://www.bordeaux-inp.fr/en">ENSEIRB-MATMECA</a> where I was specialised in high performance computing and mathematical modeling.
-My research interests are applied mathematics and computer science generally, but I specialize in computer graphics, vision and high performance computing.
+ <img src="./ressources/meo_code" width="100"/>
 
   
-## Why is this here ?
+## A bit of context ?
   
 <p align="left">
-	<span> Well if you are here, you must have arrived through my CV. To keep it brief and to the point, I opted to present in a more expanded manner the projects that I had done throughout my academic years (mostly for my own personal reference since I find myself more than not going through old code of mine). These consist mainly of HPC and GPGPU, computer graphics' as well as computer vision ( and ML) projects, written in a bunch of languages but mainly in C++, C & Python. If you are here by chance, I doubt I would have anything specific to offer but you are more than welcome to gander at what can technically be called C++ code (but only technically that is)! 
+	<span> Well if you are here, you must have arrived either through my CV or a publication webpage (or you were maybe just wandering the vast deserts of the internet :octocat:). To keep it brief and to the point, this repository contains mostly reference code that from previous toy projects. These consist mainly of HPC and GPGPU, computer graphics' as well as computer vision (and ML) projects, written in a bunch of languages but mainly in C++, C & Python.  You are welcome to use anything you see fit fot you!
 </p>
 	
 <p align="left">
@@ -16,9 +25,6 @@ My research interests are applied mathematics and computer science generally, bu
 </p>
 
 <br>
-
-Cool, Thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for this great dynamic stats vizualisation as well as [Anton Komrev](https://komarev.com/anton) for the profile viewer counter. Forever a humbling experience.
-
 <br/>  
 
 <div align="left">
@@ -49,8 +55,9 @@ Cool, Thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stat
 </div>  
 
 </br>
-
-# <p align="center"><span> :rotating_light: Disclaimer</span>: This is still a work under construction :construction: , I've just started porting some of my older projects from BitBucket and Gitlab, and Github changing its token policy is not making it easy. For the time being, what is pinned is most of what I can show for! </p>
+<p align="center">
+  <a href="https://angular-buch.com"><img src="./ressources/DSC_0015.jpg" alt="A mountain"></img></a>
+</p>
 
 
 
