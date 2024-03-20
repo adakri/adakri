@@ -3,6 +3,11 @@
 <p align="center">
   <samp>
 Hi! My name is Abdelmouttaleb and I do research in computer science & applied mathematics at <a href="https://team.inria.fr/morpheo/"> INRIA's MORPHEO team </a> . Based in Grenoble, France :mount_fuji:.
+  </samp>
+</p>
+
+<p align="center">
+	<samp>
 My research interests revolve around applied mathematics :chart_with_downwards_trend: and computer science :computer: generally, but I specialize in computer graphics, vision and high performance computing.
 - 🔭 I’m currently working on physically based high performance human avatars.
   </samp>
