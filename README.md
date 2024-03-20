@@ -6,9 +6,6 @@ Hi! My name is Abdelmouttaleb and I do research in computer science & applied ma
 My research interests revolve around applied mathematics :chart_with_downwards_trend: and computer science :computer: generally, but I specialize in computer graphics, vision and high performance computing.
 - 🔭 I’m currently working on physically based high performance human avatars.
   </samp>
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=adakri&show_icons=true" alt="Abdels Github Stats"></img>
 </p>
 
  <img src="./ressources/meo_code" width="100"/>
@@ -16,12 +13,16 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
   
 ## A bit of context ?
   
-<p align="left">
+<p align="center">
+  	<samp>
 	<span> Well if you are here, you must have arrived either through my CV or a publication webpage (or you were maybe just wandering the vast deserts of the internet :octocat:). To keep it brief and to the point, this repository contains mostly reference code that from previous toy projects. These consist mainly of HPC and GPGPU, computer graphics' as well as computer vision (and ML) projects, written in a bunch of languages but mainly in C++, C & Python.  You are welcome to use anything you see fit fot you!
+	</samp>
 </p>
 	
-<p align="left">
+<p align="center">
+	<samp>
 	<span> Now this is basically my main web page (easier than creating a webpage). I am still applying for PhDs, so for those purposes please look at my LinkedIn, otherwise ... welcome I guess!
+	</samp>
 </p>
 
 <br>
