@@ -7,7 +7,7 @@ Hi! My name is Abdelmouttaleb and I do research in computer science & applied ma
 </p>
 
 <p align="center">
-<img align="right" src="./ressources/meo_code.gif" width="100"/>
+<img align="right" src="./ressources/meo_code.gif" width="30"/>
 	<samp>
 My research interests revolve around applied mathematics :chart_with_downwards_trend: and computer science :computer: generally, but I specialize in computer graphics, vision and high performance computing.
 - 🔭 I’m currently working on physically based high performance human avatars.
@@ -16,7 +16,7 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
 
 🚀 Some Tools I Use (and what you'll mostly find here)</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25" />
 </p>
   
 ## A bit of context ?
