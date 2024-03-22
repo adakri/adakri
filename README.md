@@ -9,6 +9,7 @@ Hi! My name is Abdelmouttaleb and I do research in computer science & applied ma
 <p align="center">
 	<samp>
 My research interests revolve around applied mathematics :chart_with_downwards_trend: and computer science :computer: generally, but I specialize in computer graphics, vision and high performance computing.
+		
 - 🔭 I’m currently working on physically based high performance human avatars <img align="right" src="./ressources/meo_code.gif" width="30"/>.
   	</samp>
 </p>
@@ -43,7 +44,7 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
   
 <p align="center">
   	<samp>
-	<span> Well if you are here, you must have arrived either through my CV or a publication webpage (or you were maybe just wandering the vast deserts of the internet :octocat:). To keep it brief and to the point, this repository contains mostly reference code that from previous toy projects. These consist mainly of HPC and GPGPU, computer graphics' as well as computer vision (and ML) projects, written in a bunch of languages but mainly in C++, C & Python.  You are welcome to use anything you see fit fot you!
+	<span> Well if you are here, you must have arrived either through my CV or a publication webpage (or you were maybe just wandering the vast deserts of the internet :octocat:). To keep it brief and to the point, this repository contains mostly reference code  from previous toy projects. These consist mainly of HPC and GPGPU, computer graphics' as well as computer vision (and ML) projects, written in a bunch of languages but mainly in C++, C & Python.  You are welcome to use anything you see fit fot you!
 	</samp>
 </p>
 	
