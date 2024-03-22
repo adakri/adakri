@@ -8,9 +8,8 @@ Hi! My name is Abdelmouttaleb and I do research in computer science & applied ma
 
 <p align="center">
 	<samp>
-My research interests revolve around applied mathematics :chart_with_downwards_trend: and computer science :computer: generally, but I specialize in computer graphics, vision and high performance computing. I’m currently working on physically based high performance human avatars.
+My research interests revolve around applied mathematics :chart_with_downwards_trend: and computer science :computer: generally, but I specialize in computer graphics, vision and high performance computing. I’m currently working on physically based high performance human avatars 🔭
 
-  	</samp>
 </p>
 
 <samp>
