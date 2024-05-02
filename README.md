@@ -86,7 +86,7 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
 
 </br>
 <p align="center">
-  <a href="https://angular-buch.com"><img src="./ressources/DSC_0015.jpg" alt="A mountain"></img></a>
+  <a href="https://www.flickr.com/people/200048134@N03/"><img src="./ressources/DSC_0015.jpg" alt="A mountain"></img></a>
 </p>
 
 
