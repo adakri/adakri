@@ -42,13 +42,13 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
   
 <p align="center">
   	<samp>
-	<span> Well if you are here, you must have arrived either through my CV or a publication webpage (or you were maybe just wandering the vast deserts of the internet :octocat:). To keep it brief and to the point, this repository contains mostly reference code  from previous toy projects. These consist mainly of HPC and GPGPU, computer graphics' as well as computer vision (and ML) projects, written in a bunch of languages but mainly in C++, C & Python.  You are welcome to use anything you see fit fot you!
+	<span> Well if you are here, you must have arrived either through my CV or a publication webpage (or you were maybe just wandering the vast deserts of the internet :octocat:). To keep it brief and to the point, this repository contains mostly reference code  from previous toy projects. These consist mainly of HPC and GPGPU, computer graphics' as well as computer vision (and ML) projects, written in a bunch of languages but mainly in C++, C & Python.  You are welcome to use anything you see fit for you!
 	</samp>
 </p>
 	
 <p align="center">
 	<samp>
-	<span> Now this is basically my main web page (easier than creating a webpage). I am still applying for PhDs, so for those purposes please look at my LinkedIn, otherwise ... welcome I guess and don't forget, drink water regularly :droplet: !
+	<span> Now this is basically my main web page (easier than creating a webpage). I am still looking for the perfect PhD topic, so for those purposes please look at my LinkedIn, otherwise ... welcome I guess and don't forget, drink water regularly :droplet: !
 	</samp>
 </p>
 
