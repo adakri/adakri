@@ -15,7 +15,7 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
 <samp>
 🚀 Some programming languages/Tools I Use (and what you'll mostly find here)
 </samp>
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35" />
@@ -57,16 +57,16 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
 <br>
 <br/>  
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=adakri&show_icons=true&count_private=true&hide_border=true" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adakri&show_icons=true&count_private=true&layout=compact&hide_border=true" align="left" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adakri&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adakri&show_icons=true&count_private=true&layout=compact&hide_border=true" align="center" />
 </div>  
 
 <br/>  
 
 <br/>  
  
-<div align="left">
+<div align="center">
 <a href="https://github.com/adakri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -85,7 +85,7 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
 </div>  
 
 </br>
-<p align="left">
+<p align="center">
   <a href="https://www.flickr.com/people/200048134@N03/"><img src="./ressources/DSC_0015.jpg" alt="A mountain"></img></a>
 </p>
 
