@@ -1,12 +1,12 @@
 # Hello there <img src="./ressources/kirby_dance.gif" width="30"/>
 
-<p align="right">
+<p align="left">
   <samp>
 Hi! My name is Abdelmouttaleb and I do research in computer science & applied mathematics at <a href="https://team.inria.fr/morpheo/"> INRIA's MORPHEO team </a> . Based in Grenoble, France :mount_fuji:.
   </samp>
 </p>
 
-<p align="right">
+<p align="left">
 	<samp>
 My research interests revolve around applied mathematics :chart_with_downwards_trend: and computer science :computer: generally, but I specialize in computer graphics, vision and high performance computing. I’m currently working on physically based high performance human avatars 🔭
 
@@ -40,13 +40,13 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
   
 ## A bit of context ?
   
-<p align="right">
+<p align="left">
   	<samp>
 	<span> Well if you are here, you must have arrived either through my CV or a publication webpage (or you were maybe just wandering the vast deserts of the internet :octocat:). To keep it brief and to the point, this repository contains mostly reference code  from previous toy projects. These consist mainly of HPC and GPGPU, computer graphics' as well as computer vision (and ML) projects, written in a bunch of languages but mainly in C++, C & Python.  You are welcome to use anything you see fit for you!
 	</samp>
 </p>
 	
-<p align="right">
+<p align="left">
 	<samp>
 	<span> Now this is basically my main web page (easier than creating a webpage). I am still looking for the perfect PhD topic, so for those purposes please look at my LinkedIn, otherwise ... welcome I guess and don't forget, drink water regularly :droplet: !
 	</samp>
@@ -58,8 +58,8 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
 <br/>  
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=adakri&show_icons=true&count_private=true&hide_border=true" align="right" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adakri&show_icons=true&count_private=true&layout=compact&hide_border=true" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=adakri&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adakri&show_icons=true&count_private=true&layout=compact&hide_border=true" align="left" />
 </div>  
 
 <br/>  
@@ -85,7 +85,7 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
 </div>  
 
 </br>
-<p align="right">
+<p align="left">
   <a href="https://www.flickr.com/people/200048134@N03/"><img src="./ressources/DSC_0015.jpg" alt="A mountain"></img></a>
 </p>
 
