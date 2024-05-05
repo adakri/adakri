@@ -13,7 +13,7 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
 </p>
 
 <samp>
-🚀 Some Tools I Use (and what you'll mostly find here)
+🚀 Some programming languages/Tools I Use (and what you'll mostly find here)
 </samp>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" height="35"/>
