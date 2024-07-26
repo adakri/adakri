@@ -56,6 +56,8 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
 
 - [**HIT**: Estimating Internal Human Implicit Tissues from the Body Surface](https://hit.is.tue.mpg.de/)
 Marilyn Keller, Vaibhav Arora, **Abdelmouttaleb Dakri**, Shivam Chandhok, Jürgen Machann, Andreas Fritsche, Michael J. Black, and Sergi Pujades (CVPR2024)
+- [On predicting 3D bone locations inside the human body](https://3dbones.is.tue.mpg.de/)
+**Abdelmouttaleb Dakri \***, Vaibhav Arora*, Léo Challier, Marilyn Keller, Michael J. Black, Sergi Pujades (MICCAI 2024)
 
 <br>
 <br/>  
