@@ -96,14 +96,14 @@ Marilyn Keller, Vaibhav Arora, **Abdelmouttaleb Dakri**, Shivam Chandhok, Jürge
   <a href="https://www.flickr.com/people/200048134@N03/"><img src="./ressources/DSC_0015.jpg" alt="A mountain"></img></a>
 </p>
 
-<table>
+  <table>
     <tr>
-      <td><a href="https://www.flickr.com/people/200048134@N03/"><img src="./ressources/DSC_0015.jpg" alt="A mountain"></a></td>
-      <td><a href="link-to-image2"><img src="path-to-image2.jpg" alt="Second Image"></a></td>
+      <td><a href="https://www.flickr.com/people/200048134@N03/"><img src="./ressources/DSC_0015.jpg" alt="A mountain" width="200" height="200"></a></td>
+      <td><a href="link-to-image2"><img src="path-to-image2.jpg" alt="Second Image" width="200" height="200"></a></td>
     </tr>
     <tr>
-      <td><a href="link-to-image3"><img src="path-to-image3.jpg" alt="Third Image"></a></td>
-      <td><a href="link-to-image4"><img src="path-to-image4.jpg" alt="Fourth Image"></a></td>
+      <td><a href="link-to-image3"><img src="path-to-image3.jpg" alt="Third Image" width="200" height="200"></a></td>
+      <td><a href="link-to-image4"><img src="path-to-image4.jpg" alt="Fourth Image" width="200" height="200"></a></td>
     </tr>
   </table>
 
