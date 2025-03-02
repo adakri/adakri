@@ -93,7 +93,7 @@ Marilyn Keller, Vaibhav Arora, **Abdelmouttaleb Dakri**, Shivam Chandhok, Jürge
 
 </br>
 <p align="center">
-  <a href="https://www.flickr.com/people/200048134@N03/"><img src="./ressources/img3.jpg" alt="A mountain" width="700" height="500"></img></a>
+  <a href="https://www.flickr.com/people/200048134@N03/"><img src="./ressources/img2.jpg" alt="A mountain" width="700" height="500"></img></a>
 </p>
 
 <!--
