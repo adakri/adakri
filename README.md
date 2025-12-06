@@ -2,13 +2,14 @@
 
 <p align="left">
   <samp>
-Hi! My name is Abdelmouttaleb and I do research in computer science & applied mathematics at <a href="https://team.inria.fr/morpheo/"> INRIA's MORPHEO team </a> . Based in Grenoble, France :mount_fuji:.
+Hi! My name is Abdelmouttaleb and I am pursuing a PhD in computer science & applied mathematics at <a href="https://projet.liris.cnrs.fr/origami/"> LIRIS's ORIGAMI team </a>, Based in Lyon, France :lion: :bridge_at_night:. I have previously had the pleasure of working with some exceptional folks at <a href="https://team.inria.fr/morpheo/"> INRIA's MORPHEO team </a> and <a href="https://www.ill.eu/fr/"> L'institut Laue Langevin </a> (Based in Grenoble, France :mount_fuji: :bicycle:), at 
+	 <a Dassault Systèmes<a href="https://www.3ds.com/fr/"> </a> (Based in Paris, France :classical_building: ) as well as </a> the Max Plack Institute of intelligent systems <a href="https://is.mpg.de/ps"> (based in Tubingen, Germany), 
   </samp>
 </p>
 
 <p align="left">
 	<samp>
-My research interests revolve around applied mathematics :chart_with_downwards_trend: and computer science :computer: generally, but I specialize in computer graphics, vision and high performance computing. I’m currently working on physically based high performance human avatars 🔭
+My research interests revolve around applied mathematics :chart_with_downwards_trend: and computer science :computer: generally, but I specialize in computer graphics, computational geometry and high performance computing. I’m currently on 3D reconstruction.
 
 </p>
 
