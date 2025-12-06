@@ -2,8 +2,8 @@
 
 <p align="left">
   <samp>
-Hi! My name is Abdelmouttaleb and I am pursuing a PhD in computer science & applied mathematics at <a href="https://projet.liris.cnrs.fr/origami/"> LIRIS's ORIGAMI team </a>, Based in Lyon, France :lion: :bridge_at_night:. I have previously had the pleasure of working with some exceptional folks at <a href="https://team.inria.fr/morpheo/"> INRIA's MORPHEO team </a> and <a href="https://www.ill.eu/fr/"> L'institut Laue Langevin </a> (Based in Grenoble, France :mount_fuji: :bicycle:), at 
-	 <a Dassault Systèmes<a href="https://www.3ds.com/fr/"> </a> (Based in Paris, France :classical_building: ) as well as </a> the Max Plack Institute of intelligent systems <a href="https://is.mpg.de/ps"> (based in Tubingen, Germany), 
+Hi! My name is Abdelmouttaleb and I am pursuing a PhD in computer science & applied mathematics at <a href="https://projet.liris.cnrs.fr/origami/"> LIRIS's ORIGAMI team</a>, based in Lyon, France :lion: :bridge_at_night:. I have previously had the pleasure of working with some exceptional folks at <a href="https://team.inria.fr/morpheo/"> INRIA's MORPHEO team</a> and <a href="https://www.ill.eu/fr/"> L'institut Laue Langevin</a> (both based in Grenoble, France :mount_fuji: :bicycle:), at 
+	 <a <a href="https://www.3ds.com/fr/"> Dassault Systèmes</a> (based in Paris, France :classical_building: ) as well as </a> the Max Plack Institute of intelligent systems <a href="https://is.mpg.de/ps"> (based in Tubingen, Germany), 
   </samp>
 </p>
 
