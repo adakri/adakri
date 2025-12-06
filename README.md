@@ -62,13 +62,6 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
 Marilyn Keller, Vaibhav Arora, **Abdelmouttaleb Dakri**, Shivam Chandhok, Jürgen Machann, Andreas Fritsche, Michael J. Black, and Sergi Pujades **(CVPR2024)**
 
 
-<br>
-<br/>  
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adakri&show_icons=true&count_private=true&hide_border=true" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adakri&show_icons=true&count_private=true&layout=compact&hide_border=true" align="center" />
-</div>  
 
 <br/>  
 
