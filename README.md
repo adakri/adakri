@@ -9,7 +9,7 @@ Hi! My name is Abdelmouttaleb and I am pursuing a PhD in computer science & appl
 
 <p align="left">
 	<samp>
-My research interests revolve around applied mathematics :chart_with_downwards_trend: and computer science :computer: generally, but I specialize in computer graphics, computational geometry and high performance computing. I’m currently on 3D reconstruction.
+My research interests revolve around applied mathematics :chart_with_downwards_trend: and computer science :computer: generally, but I specialize in computer graphics, computational geometry and high performance computing. I’m currently hunched over 3D reconstruction.
 
 </p>
 
