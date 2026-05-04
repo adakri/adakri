@@ -15,8 +15,8 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
 
 <samp>
 🚀 Some programming languages/Tools I Use (and what you'll mostly find here)
-</samp>
-<p align="center">
+<div align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35" />
@@ -37,7 +37,7 @@ My research interests revolve around applied mathematics :chart_with_downwards_t
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-original.svg" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" width="35" height="35"/>
 
-</p>
+</div>
   
 ## A bit of context ?
   
